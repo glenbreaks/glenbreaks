@@ -11,7 +11,7 @@
   
 - 👯 Looking to collaborate on **anything with ML to improve human interaction with machines**    
   
-- 💬 Ask me about **scikit-learn, python, Ableton or how the future of organic electronics will look like**  
+- 💬 Ask me about **scikit-learn, python, Ableton or how the future of organic electronics will look like** 😝
   
 - 📫 How to reach me **glenbreaks106@gmail.com**
 
