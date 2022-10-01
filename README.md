@@ -7,12 +7,18 @@
   
 - 🔭 I’m currently working on a classifier based on **Choquistic Regression** using the **scikit-learn** API
   
-- 🌱 I’m currently learning **new statistical approaches to learn nonlinear monotone models**  
+- 🌱 I’m persuing a B.Sc degree in **Computer Science** @ LMU, Munich
+
+- 🧑‍🔬 I have a B.Sc in Physics with a focus on **organic solid state physics** 🔮
   
 - 👯 Looking to collaborate on **anything with ML to improve human interaction with machines**    
   
-- 💬 Ask me about **scikit-learn, python, Ableton or how the future of organic electronics will look like** 😝
-  
+- 💬 Ask me about **physics, nonlinear classifier, Ableton or how the future of organic electronics will look like** 😝
+
+- ❕ Get in touch if you are working on **new statistical approaches to learn nonlinear monotone models**
+
+- 🎶 In my spare time I produce music and co-run a **music collective & label** and organize events
+ 
 - 📫 How to reach me **glenbreaks106@gmail.com**
 
 
@@ -32,7 +38,7 @@
 
 ### 🖥️ ML & Data handling
 <p>
-<a href="https://scikit-learn.org/"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=3499cd"></a>
+<a href="https://scikit-learn.org/"> <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=3499cd"></a>
 <a href="https://github.com/glenbreaks"><img alt="numPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://github.com/glenbreaks"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a href="https://github.com/glenbreaks"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
