@@ -17,7 +17,7 @@
 
 - ❕ Get in touch if you are working on **new statistical approaches to learn nonlinear monotone models**
 
-- 🎶 In my spare time I produce music and co-run a **music collective & label** and organize events <a href="https://soundcloud.com/ghsttwn"><img src="https://img.shields.io/badge/SC-Ghosttown%20Sound-black?&style=flat&logoColor=ffdf59"></a>
+- 🎶 In my spare time I produce music and co-run a **music collective & label** and organize events: <a href="https://soundcloud.com/ghsttwn"><img src="https://img.shields.io/badge/SC-Ghosttown%20Sound-black?&style=social&logoColor=ffdf59"></a>
 
  
 - 📫 How to reach me **glenbreaks106@gmail.com**
