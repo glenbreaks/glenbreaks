@@ -21,7 +21,8 @@
 
 - 🖼️ I use stable diffusion to create art 🧑‍🎨 
  
-- 📫 How to reach me **glenbreaks106@gmail.com**
+- 📫 How to reach me **glenbreaks106@gmail.com** 
+- 🌳 How to find me around the web <a href="https://linktr.ee/glenscalai"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
 
 
 ## 🛠️ My tools 
