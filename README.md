@@ -19,11 +19,9 @@
 
 - 🎶 In my spare time I produce music and co-run a **music collective & label** and organize events: <a href="https://soundcloud.com/ghsttwn"><img src="https://img.shields.io/badge/SC-Ghosttown%20Sound-black?&style=social&logoColor=ffdf59"></a>
 
-- 🖼️ I use stable diffusion to create art 🧑‍🎨 
+- 🖼️ I use stable diffusion and DALL-E to create art 🧑‍🎨 
  
-- 📫 How to reach me **glenbreaks106@gmail.com** 
-- 🌳 How to find me around the web <a href="https://linktr.ee/glenscalai"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
-
+- 📫 How to reach me **glenbreaks106@gmail.com**
 
 ## 🛠️ My tools 
 
@@ -68,6 +66,11 @@
 
 </p>
 
+## 🕸️ Me in the web
+<p>
+<a href="https://linktr.ee/glenscalai"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
+<a href="https://soundcloud.com/glenme"><img alt="sc" src="https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white"></a>
+<a href="https://twitter.com/glensnuub"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://objkt.com/profile/tz1KoGBvkWK6dZBxKEts1vd8vCP69vHjxe6n/activity"><img alt="objkt" src="https://img.shields.io/badge/-objkt-black?style=for-the-badge"></a>
 
-
-
+</p>
