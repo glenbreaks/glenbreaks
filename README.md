@@ -17,9 +17,9 @@
 
 - ❕ Get in touch if you are working on **new statistical approaches to learn nonlinear monotone models**
 
-- 🎶 In my spare time I produce music and co-run a **music collective & label** and organize events: <a href="https://soundcloud.com/ghsttwn"><img src="https://img.shields.io/badge/SC-Ghosttown%20Sound-black?&style=social&logoColor=ffdf59"></a>
+- 🎶 In my spare time I produce music, co-run a **music collective & label** and organize events: <a href="https://soundcloud.com/ghsttwn"><img src="https://img.shields.io/badge/SC-Ghosttown%20Sound-black?&style=social&logoColor=ffdf59"></a>
 
-- 🖼️ I use stable diffusion and DALL-E to create art 🧑‍🎨 
+- 🖼️ I do art using stable diffusion + DALL-E 🧑‍🎨 & mint, sell, trade it on the blockchain 🔗
  
 - 📫 How to reach me **glenbreaks106@gmail.com**
 
