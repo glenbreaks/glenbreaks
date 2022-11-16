@@ -5,7 +5,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=750&color=FFFF93&center=true&vCenter=true&width=435&lines=Always+eager+to+learn;Physicist+and+software+dev;weakness+for+ML%2C+music+%26+AI-art" alt="Typing SVG" /></a></p>
 
   
-- 🔭 I’m currently working on a classifier based on **Choquistic Regression** using the **scikit-learn** API
+- 🔭 I’m currently working on a classifier based on **Choquistic regression** using the **scikit-learn** API
   
 - 🌱 I’m persuing a B.Sc degree in **Computer Science** @ LMU, Munich
 
