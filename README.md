@@ -37,7 +37,7 @@
 <a href="https://github.com/glenbreaks"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a>
 </p>
 
-### 🖥️ ML & Data handling
+### 🖥️ ML & Data processing
 <p>
 <a href="https://scikit-learn.org/"> <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=3499cd"></a>
 <a href="https://github.com/glenbreaks"><img alt="numPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
