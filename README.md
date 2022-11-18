@@ -72,5 +72,6 @@
 <a href="https://soundcloud.com/glenme"><img alt="sc" src="https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white"></a>
 <a href="https://twitter.com/glensnuub"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://objkt.com/profile/tz1KoGBvkWK6dZBxKEts1vd8vCP69vHjxe6n/activity"><img alt="objkt" src="https://img.shields.io/badge/-objkt-black?style=for-the-badge"></a>
+ <a href="https://www.linkedin.com/in/daniel-ebensberger-351696257"><img alt="linkedin" src=[https://img.shields.io/badge/-objkt-black?style=for-the-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </p>
