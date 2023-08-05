@@ -5,17 +5,17 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=750&color=FFFF93&center=true&vCenter=true&width=435&lines=Always+eager+to+learn;Physicist+and+software+dev;weakness+for+ML%2C+music+%26+AI-art" alt="Typing SVG" /></a></p>
 
   
-- 🔭 I’m currently working on a classifier based on **Choquistic regression** using the **scikit-learn** API
+- 🔭 I have developed a classification method based on **Choquistic regression** using the **scikit-learn** API
   
-- 🌱 I’m persuing a B.Sc degree in **Computer Science** @ LMU, Munich
+- 🌱 Currently I am working as a Data Engineer in the MarTech field
 
-- 🧑‍🔬 I have a B.Sc in Physics with a focus on **organic solid state physics** 🔮
+- 🧑‍🔬 I have a B.Sc in **Physics** and **Computer Science** 🔮
   
-- 👯 Looking to collaborate on **anything with ML to improve human interaction with machines**    
+- 👯 Looking to collaborate on **anything with ML to improve human interaction with data and machines**    
   
-- 💬 Ask me about **physics, nonlinear classifier, Ableton or how the future of organic electronics will look like** 😝
+- 💬 Ask me about **physics, nonlinear classifier, data viz or how the future of organic electronics will look like** 😝
 
-- ❕ Get in touch if you are working on **new statistical approaches to learn nonlinear monotone models**
+- ❕ Get in touch if you are working on **new statistical approaches to learn nonlinear monotone models** or want to collaborate on a side project to **make data science more friendly and accessible to everyone** !
 
 - 🎶 In my spare time I produce music, co-run a **music collective & label** and organize events: <a href="https://soundcloud.com/ghsttwn"><img src="https://img.shields.io/badge/SC-Ghosttown%20Sound-black?&style=social&logoColor=ffdf59"></a>
 
