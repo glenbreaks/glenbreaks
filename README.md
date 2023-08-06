@@ -19,7 +19,7 @@
 
 - 🎶 In my spare time I produce music, co-run a **music collective & label** and organize events: <a href="https://soundcloud.com/ghsttwn"><img src="https://img.shields.io/badge/SC-Ghosttown%20Sound-black?&style=social&logoColor=ffdf59"></a>
 
-- 🖼️ I do art using stable diffusion + DALL-E 🧑‍🎨 & mint, sell, trade it on the blockchain 🔗
+- 🖼️ I do art using stable diffusion 🧑‍🎨 
  
 - 📫 How to reach me **glenbreaks106@gmail.com**
 
