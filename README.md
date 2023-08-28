@@ -40,7 +40,7 @@
 
 ### 🖥️ ML &amp; Data processing 
 <p>
-<a href="https://scikit-learn.org/"> <;img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=3499cd"></a> 
+<a href="https://scikit-learn.org/"> <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=3499cd"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";numPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a> 
@@ -51,7 +51,7 @@
 
 ### 💻 Software &amp; tools 
 <p>
-<a href="https://github.com/glenbreaks"><img alt=&quot;Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a> 
+<a href="https://github.com/glenbreaks"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a> 
 <a href="https://github.com/glenbreaks"><img alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a> 
@@ -61,7 +61,7 @@
 <a href="https://github.com/glenbreaks"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"></a> 
-<a href="https://github.com/glenbreaks"><img alt=&quot;Win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
+<a href="https://github.com/glenbreaks"><img alt="Win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://github.com/glenbreaks"><img alt="Ableton" src="https://img.shields.io/badge/Ableton%20Live-000000.svg?style=for-the-badge&logo=Ableton-Live&logoColor=white"></a>
 <a href="https://github.com/glenbreaks"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
