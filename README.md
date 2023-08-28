@@ -55,22 +55,19 @@
 <a href="https://github.com/glenbreaks"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a> 
 <a href="https://github.com/glenbreaks"><img alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a> 
-<a href="https://github.com/glenbreaks"><img alt=&quot;VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
+<a href="https://github.com/glenbreaks"><img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=Obsidian&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"></a> 
-<a href="https://github.com/glenbreaks"><img alt="Win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://github.com/glenbreaks"><img alt="Ableton" src="https://img.shields.io/badge/Ableton%20Live-000000.svg?style=for-the-badge&logo=Ableton-Live&logoColor=white"></a>
-<a href="https://github.com/glenbreaks"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
-
 </p>
 
 ## 🕸️ Me in the web
 <p>
-<a href="https://www.linkedin.com/in/daniel-ebensberger-351696257"><img alt="linkedin" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+<a href="https://www.linkedin.com/in/daniel-ebensberger-351696257"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://linktr.ee/glenscalai"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
 <a href="https://soundcloud.com/glenme"><img alt="sc" src="https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white"></a>
 <a href="https://twitter.com/glensnuub"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
