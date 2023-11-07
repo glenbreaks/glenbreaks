@@ -22,7 +22,9 @@
 
 - 🖼️ I do art using stable diffusion 🧑‍🎨  
  
-- 📫 How to reach me **glenbreaks106@gmail.com** 
+- 📫 How to reach me **glenbreaks106@gmail.com**
+
+<a href="https://app.daily.dev/danxlr8"><img src="https://api.daily.dev/devcards/3fdf6edde34c4fb69b018d5b553221fa.png?r=e56" width="400" alt="Daniel (glenbreaks)'s Dev Card"/></a>
 
 ## 🛠️ My tools 
 
