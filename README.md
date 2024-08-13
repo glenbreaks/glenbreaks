@@ -3,30 +3,8 @@
 </h3>
 <p align="center"><a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=750&color=FFFF93&amp;center=true&vCenter=true&width=1000&lines=knowledge+doubles+every+17+years.;improving+our+knowledge+processing+is+essential"  alt="Typing SVG" /></a></p>
 
-- 🔧 I am currently developing a web app chatbot using OpenAI Whisper &amp; fine-tuned LLMs. 
-
-- 🔭 I have developed a classification method based on  **Choquistic regression ** using the **scikit-learn** API
-  
-- 🌱 Currently I am working as a Data Engineer in the MarTech field 
-
-- 🧑‍🔬 I have a B.Sc in  **Physics** and **Computer Science** 🔮
-  
-- 👯 Looking to collaborate on  **anything with ML to improve human interaction with data and machines **    
-  
-- 💬 Ask me about **physics, nonlinear classifier, data viz or how the future of organic electronics will look like ** 😝
-
-- ❕ Get in touch if you are working on **new statistical approaches to learn nonlinear monotone models** or want to collaborate on a side project to **make data science more friendly and accessible to everyone** ! 
-
-- 🎶 In my spare time I produce music, co-run a **music collective &amp; label** and organize events: <a href="https://soundcloud.com/ghsttwn"><img src="https://img.shields.io/badge/SC-Ghosttown%20Sound-black?&style=social&logoColor=ffdf59"></a> 
-
-- 🖼️ I do art using stable diffusion 🧑‍🎨  
- 
-- 📫 How to reach me **glenbreaks106@gmail.com**
 
 
-## 🛠️ My tools 
-
-### 📋 Languages
 <p>
 <a href="https://github.com/glenbreaks"><img alt=";Python" src="https://img.shields.io/badge/Python-14354C.svg?&style=for-the-badge&logo=python&logoColor=ffdf59"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=999999"></a> 
@@ -37,8 +15,6 @@
 <a href="https://github.com/glenbreaks"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt=&quot;SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white"></a> 
 </p>
-
-### 🖥️ ML &amp; Data processing 
 <p>
 <a href="https://scikit-learn.org/"> <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=3499cd"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";numPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a> 
@@ -48,8 +24,6 @@
 <a href="https://github.com/glenbreaks"><img alt=";Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt=";Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"></a> 
 </p>
-
-### 💻 Software &amp; tools 
 <p>
 <a href="https://github.com/glenbreaks"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a> 
 <a href="https://github.com/glenbreaks"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a> 
@@ -65,13 +39,4 @@
 <a href="https://github.com/glenbreaks"><img alt="Ableton" src="https://img.shields.io/badge/Ableton%20Live-000000.svg?style=for-the-badge&logo=Ableton-Live&logoColor=white"></a>
 </p>
 
-## 🕸️ Me in the web
-<p>
-<a href="https://www.linkedin.com/in/daniel-ebensberger-351696257"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://linktr.ee/glenscalai"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
-<a href="https://soundcloud.com/glenme"><img alt="sc" src="https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white"></a>
-<a href="https://twitter.com/glensnuub"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://objkt.com/profile/tz1KoGBvkWK6dZBxKEts1vd8vCP69vHjxe6n/activity"><img alt="objkt" src="https://img.shields.io/badge/-objkt-black?style=for-the-badge"></a>
 
-
-</p>
